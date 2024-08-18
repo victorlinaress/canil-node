@@ -6,7 +6,7 @@ Express
 Typescript
 Mustache
 
-pré requisitos globais:
+Pré requisitos globais:
 npm i -g nodemon typescript ts-node
 
 instalação:
