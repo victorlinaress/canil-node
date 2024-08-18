@@ -1,1 +1,19 @@
+# Node modules
 node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos gerados
+dist/
+build/
