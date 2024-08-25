@@ -1,16 +1,20 @@
-Projeto Canil com NodeJS
+# Projeto Canil com NodeJS
 
-Tecnologias utilizadas:
-NodeJS
-Express
-Typescript
-Mustache
+## Tecnologias utilizadas
 
-pré requisitos globais:
+- NodeJS
+- Express
+- Typescript
+- Mustache
+
+## Pré-requisitos globais
+
+
 npm i -g nodemon typescript ts-node
 
-instalação:
+Instalação:
+
 npm install
 
-Para rodar o projeto
-npm run dev
+## Para rodar o projeto:
+npm run start-dev
